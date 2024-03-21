@@ -1,0 +1,17 @@
+{
+  "name": "123aak-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with TyprScript,Node.js and inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ammar aak",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
